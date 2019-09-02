@@ -12,5 +12,6 @@ gcc $1.c $2 $3 -o $1g
 if [  -e $1g ]; then
 ./$1g 
 fi
+echo "\r"
 $4 $6
 $5 $6
