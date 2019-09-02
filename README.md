@@ -32,3 +32,20 @@ GitHubは何か
 「Create repository」をマウスの右ボタンを押します。
 
 https://github.com/kaizen-nagoya/hello-world
+
+ここの内容をdockerでgccとclangで試すには、
+
+$ docker run -it kaizenjapan/hello_world
+
+関連記事は
+github入門 (1) 入門
+https://qiita.com/kaizen_nagoya/items/b6f5b1532fd21fec79c8
+
+github入門 (2) ソースとスクリプトを上げてみる。
+https://qiita.com/kaizen_nagoya/items/c6a54925fd3510dc0710
+
+今日のclang error: unknown argument と　invalid value
+https://qiita.com/kaizen_nagoya/items/abcffef21280a98dc817
+
+
+
